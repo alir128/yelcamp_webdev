@@ -25,10 +25,10 @@ app.use(express.static(__dirname + "/public"));
 app.use(methodOverride("_method"));
 //seedDB();
 app.use(flash());
-
+app.locals.moment = require('moment');
 //PASSPORT CONFIG
 app.use(require("express-session")({
-    secret: "webdevyelpcamp",
+    secret: "ily zoya",
     resave: false,
     saveUninitialized: false
 }));
