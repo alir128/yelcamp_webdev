@@ -28,7 +28,7 @@ app.use(flash());
 
 //PASSPORT CONFIG
 app.use(require("express-session")({
-    secret: "ily zoya",
+    secret: "webdevyelpcamp",
     resave: false,
     saveUninitialized: false
 }));
