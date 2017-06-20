@@ -1,2 +1,5 @@
 # yelcamp_webdev
-yelpcamp files
+
+YELPCAMP files
+URL: ali-raza.me
+deployed on amazon ec2
