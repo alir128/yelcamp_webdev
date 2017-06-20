@@ -1,5 +1,6 @@
 # yelcamp_webdev
 
 YELPCAMP files
-URL: ali-raza.me
+URL: www.ali-raza.me
+database: mlabs
 deployed on amazon ec2
